@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none;"> Metin2 Cloud bot </h1>
+<h1 style="border-bottom: none;"> Metin2 Cloud bot </h1>
 
 ## Local run
 

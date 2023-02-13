@@ -9,7 +9,7 @@ COPY go.* ./
 RUN go mod download
 # Copy over Go source code
 COPY *.go ./
-# Run the Go build and output binary under hello_go_http
+# Run the Go build and output binary under main
 RUN go build -o /main
 # Make sure to expose the port the HTTP server is using
 EXPOSE 8080
